@@ -13,6 +13,7 @@ The easiest way is the website, which always sends you to the newest file for yo
 | Android phone | [www.escanor.in/download/android](https://www.escanor.in/download/android) |
 | Android phone, with phone control | [www.escanor.in/download/android-control](https://www.escanor.in/download/android-control) |
 | Windows | [www.escanor.in/download/windows](https://www.escanor.in/download/windows) |
+| Windows, from the Microsoft Store | [apps.microsoft.com/detail/9p4jcn4ss6s6](https://apps.microsoft.com/detail/9p4jcn4ss6s6) |
 | macOS (Apple silicon) | [www.escanor.in/download/mac-arm](https://www.escanor.in/download/mac-arm) |
 | macOS (Intel) | [www.escanor.in/download/mac-intel](https://www.escanor.in/download/mac-intel) |
 | Linux (AppImage) | [www.escanor.in/download/linux](https://www.escanor.in/download/linux) |
