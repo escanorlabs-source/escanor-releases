@@ -1,0 +1,22 @@
+Architectures: amd64
+Date: Wed, 11 Nov 2026 20:08:49 +0000
+Acquire-By-Hash: yes
+Description: Escanor Desktop for Debian, Ubuntu and their relatives
+Label: Escanor
+Origin: Escanor
+MD5Sum:
+ 215c6df02f58796e6f5a991144327404             1339 Packages
+ bb1eed6cba3c9267ff4e94219b69e26c              801 Packages.gz
+ 919b3e43a5fbf2a5662139b8b2f4f01a              896 Packages.xz
+SHA1:
+ 9e32b8b9ce7b101d47917eb6f922c6bbe3e022f4             1339 Packages
+ 82fe9c6fc8cc56e79ea4fc96d0de0579dbe71b76              801 Packages.gz
+ b05549c1bf48a4e1c4e94176f066107c6639ebed              896 Packages.xz
+SHA256:
+ 4b742caf5f68d832b9cbd3fe4956c14f67460e88d2b33449d78fb4ba61d642b6             1339 Packages
+ 59f439cee71b9c9ce7e50fb98ddcf3a81f48eb6df5e8992626c7bd91efb9254a              801 Packages.gz
+ 271fd9e2a0c8b8d3ade5d0c475b7f2a292defd5dc3bcc8fda469b647a1b12de8              896 Packages.xz
+SHA512:
+ 018bce86e8ae5d59ad8d2018cc5fa54572801ee7cf80c795dcdc0874b7de1f9babef4f5bece600a001775e34343002778744a7c9b9676eb81be05acdf04a93ed             1339 Packages
+ d36fae53763595f08637038d2ea945ee031820251779b9d164b9fd196d6b4f7b7c099b9101c3666ae015698c42dc9c771d9bff1a38607ad3fc71dec0c0055882              801 Packages.gz
+ 24b16ecfa35e85babe24a5b9fc21dffec89e6fc6ae26fea8701847fb7167cce7f0eaa6e17bbcb42bbea4a802d2c865e055c97f199859eba69db4798e441cbcfd              896 Packages.xz
