@@ -47,3 +47,28 @@ Description: keeps your apps up, with your computer as the server
  this computer, or your own AI key. A code editor and terminal are in
  the same window, you can speak instead of typing, and your chats
  follow you between this computer and the Escanor phone app.
+
+Package: escanor
+Version: 0.10.35
+Architecture: amd64
+Maintainer: Escanor <escanorlabs@gmail.com>
+Installed-Size: 610444
+Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
+Recommends: libappindicator3-1 | libayatana-appindicator3-1
+Section: devel
+Priority: optional
+Homepage: https://www.escanor.in
+Filename: pool/desktop-v0.10.35/escanor_0.10.35_amd64.deb
+Size: 187122466
+MD5sum: 25c2372980d3f6d6eb662931c4bb1759
+SHA1: fa6f1aed12d03816543ed4125cbbf7fb802cbe92
+SHA256: 643d0625d0015b4f1fae2d439ec423fd22eb703a4d54f8221929480b6c0b47af
+Description: keeps your apps up, with your computer as the server
+ Escanor tells you what broke in a build or deploy and why. After you
+ approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
+ Google Cloud Run, checks the fix and shows you the proof.
+ .
+ It runs on the AI you already use: your own Claude Code or Codex on
+ this computer, or your own AI key. A code editor and terminal are in
+ the same window, you can speak instead of typing, and your chats
+ follow you between this computer and the Escanor phone app.
