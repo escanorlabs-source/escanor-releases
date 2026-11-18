@@ -1,0 +1,62 @@
+# Publishes a release of this repository from the files in publish/, for releases made where `gh` cannot create one.
+#   publish/release.env   TAG, TITLE, LATEST (true|false), and optional DESKTOP_VERSION (then LATEST-DESKTOP.md on main is bumped
+#                         first and the tag is put on that fresh commit, as scripts/release.sh in the desktop repository does)
+#   publish/notes.md      the public notes
+#   publish/files/        the assets; a file over GitHub's 100 MB limit is committed as <name>.part-aa, <name>.part-ab, ... and joined here
+#   publish/SHA256SUMS    the checksum of every asset as built: nothing is published unless every one matches
+# A release that already exists is left alone.
+name: Publish a release
+
+on:
+  push:
+    branches: [ccr-a5497416-cvd6f4]
+    paths: ['publish/**', '.github/workflows/publish.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          cd publish
+          source release.env
+          : "${TAG:?}" "${TITLE:?}" "${LATEST:?}"
+          if gh release view "$TAG" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then echo "$TAG already exists"; exit 0; fi
+          cd files
+          shopt -s nullglob
+          for first in *.part-aa; do
+            name="${first%.part-aa}"
+            cat "$name".part-* > "$name"
+            rm -f "$name".part-*
+          done
+          sha256sum -c ../SHA256SUMS
+          assets=()
+          while read -r _ f; do assets+=("$f"); done < ../SHA256SUMS
+          [ "${#assets[@]}" -eq "$(ls -1 | wc -l)" ] || { echo "files and SHA256SUMS differ"; ls -la; exit 1; }
+          target=main
+          if [ -n "${DESKTOP_VERSION:-}" ]; then
+            sha=$(gh api "repos/$GITHUB_REPOSITORY/contents/LATEST-DESKTOP.md?ref=main" --jq .sha)
+            target=$(gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/LATEST-DESKTOP.md" -f message="Desktop $DESKTOP_VERSION" -f branch=main \
+              -f content="$(printf 'Latest desktop version: %s\n' "$DESKTOP_VERSION" | base64 -w0)" -f sha="$sha" --jq .commit.sha)
+          fi
+          gh release create "$TAG" -R "$GITHUB_REPOSITORY" --target "$target" --latest="$LATEST" --title "$TITLE" --notes-file ../notes.md "${assets[@]}"
+          # GitHub computes its own digest of every upload: each must be what was built.
+          while read -r sum f; do
+            got=$(gh release view "$TAG" -R "$GITHUB_REPOSITORY" --json assets -q ".assets[]|select(.name==\"$f\")|.digest")
+            [ "$got" = "sha256:$sum" ] || { echo "$f: uploaded $got, built sha256:$sum"; exit 1; }
+          done < ../SHA256SUMS
+          echo "published https://github.com/$GITHUB_REPOSITORY/releases/tag/$TAG"
