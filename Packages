@@ -1,29 +1,4 @@
 Package: escanor
-Version: 0.10.42
-Architecture: amd64
-Maintainer: Escanor <escanorlabs@gmail.com>
-Installed-Size: 612959
-Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
-Recommends: libappindicator3-1 | libayatana-appindicator3-1
-Section: devel
-Priority: optional
-Homepage: https://www.escanor.in
-Filename: pool/desktop-v0.10.42/escanor_0.10.42_amd64.deb
-Size: 187559780
-MD5sum: 4cbe046a35c3043df34a24fbe237ad8e
-SHA1: 56d52be48ff56a9c67dfad731a618a396dc8ff2b
-SHA256: 91d6971d3dfb7d60aa73b3a4a3f0d2e14e76929c616bee7edec77111c9acf57d
-Description: keeps your apps up, with your computer as the server
- Escanor tells you what broke in a build or deploy and why. After you
- approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
- Google Cloud Run, checks the fix and shows you the proof.
- .
- It runs on the AI you already use: your own Claude Code or Codex on
- this computer, or your own AI key. A code editor and terminal are in
- the same window, you can speak instead of typing, and your chats
- follow you between this computer and the Escanor phone app.
-
-Package: escanor
 Version: 0.10.43
 Architecture: amd64
 Maintainer: Escanor <escanorlabs@gmail.com>
@@ -63,6 +38,31 @@ Size: 187648318
 MD5sum: 3a3a54b3e169bcabf14899a012b3eee1
 SHA1: 8c7770118f84d211de365316ef90da80722154cc
 SHA256: f0a47071ed7099034ecf9e6e274ab692dfa273b6612bf5a2f5628960dc63ef48
+Description: keeps your apps up, with your computer as the server
+ Escanor tells you what broke in a build or deploy and why. After you
+ approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
+ Google Cloud Run, checks the fix and shows you the proof.
+ .
+ It runs on the AI you already use: your own Claude Code or Codex on
+ this computer, or your own AI key. A code editor and terminal are in
+ the same window, you can speak instead of typing, and your chats
+ follow you between this computer and the Escanor phone app.
+
+Package: escanor
+Version: 0.10.45
+Architecture: amd64
+Maintainer: Escanor <escanorlabs@gmail.com>
+Installed-Size: 613934
+Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
+Recommends: libappindicator3-1 | libayatana-appindicator3-1
+Section: devel
+Priority: optional
+Homepage: https://www.escanor.in
+Filename: pool/desktop-v0.10.45/escanor_0.10.45_amd64.deb
+Size: 187820964
+MD5sum: f778e6a1ff7a43f173c54e37d152058c
+SHA1: 72a1f63753122c952d8c36fc58487bcaa0aa0f47
+SHA256: a9543fbb6c19f6f916aaf8ad725d9a6d688967fbb19bf4bb111dfa2ac7f71e8a
 Description: keeps your apps up, with your computer as the server
  Escanor tells you what broke in a build or deploy and why. After you
  approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
