@@ -1,1 +1,1 @@
-Latest desktop version: 0.10.46
+Latest desktop version: 0.10.47
