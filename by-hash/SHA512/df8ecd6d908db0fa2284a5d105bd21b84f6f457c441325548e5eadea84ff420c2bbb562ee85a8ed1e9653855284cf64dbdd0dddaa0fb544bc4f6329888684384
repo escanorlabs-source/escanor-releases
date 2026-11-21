@@ -1,0 +1,74 @@
+Package: escanor
+Version: 0.10.45
+Architecture: amd64
+Maintainer: Escanor <escanorlabs@gmail.com>
+Installed-Size: 613934
+Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
+Recommends: libappindicator3-1 | libayatana-appindicator3-1
+Section: devel
+Priority: optional
+Homepage: https://www.escanor.in
+Filename: pool/desktop-v0.10.45/escanor_0.10.45_amd64.deb
+Size: 187820964
+MD5sum: f778e6a1ff7a43f173c54e37d152058c
+SHA1: 72a1f63753122c952d8c36fc58487bcaa0aa0f47
+SHA256: a9543fbb6c19f6f916aaf8ad725d9a6d688967fbb19bf4bb111dfa2ac7f71e8a
+Description: keeps your apps up, with your computer as the server
+ Escanor tells you what broke in a build or deploy and why. After you
+ approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
+ Google Cloud Run, checks the fix and shows you the proof.
+ .
+ It runs on the AI you already use: your own Claude Code or Codex on
+ this computer, or your own AI key. A code editor and terminal are in
+ the same window, you can speak instead of typing, and your chats
+ follow you between this computer and the Escanor phone app.
+
+Package: escanor
+Version: 0.10.46
+Architecture: amd64
+Maintainer: Escanor <escanorlabs@gmail.com>
+Installed-Size: 614012
+Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
+Recommends: libappindicator3-1 | libayatana-appindicator3-1
+Section: devel
+Priority: optional
+Homepage: https://www.escanor.in
+Filename: pool/desktop-v0.10.46/escanor_0.10.46_amd64.deb
+Size: 187831770
+MD5sum: 854a3f497c295094fbb8eb0c5678e240
+SHA1: 8dc3466620cba267782ea5e12989151c442b09b7
+SHA256: fb5f1b99659d40a7722295d805d4dcb0567bff493038ccef9332415a7e79e0d4
+Description: keeps your apps up, with your computer as the server
+ Escanor tells you what broke in a build or deploy and why. After you
+ approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
+ Google Cloud Run, checks the fix and shows you the proof.
+ .
+ It runs on the AI you already use: your own Claude Code or Codex on
+ this computer, or your own AI key. A code editor and terminal are in
+ the same window, you can speak instead of typing, and your chats
+ follow you between this computer and the Escanor phone app.
+
+Package: escanor
+Version: 0.10.47
+Architecture: amd64
+Maintainer: Escanor <escanorlabs@gmail.com>
+Installed-Size: 614042
+Depends: libgtk-3-0 | libgtk-3-0t64, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0 | libatspi2.0-0t64, libuuid1, libsecret-1-0, libgbm1, libasound2 | libasound2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxrandr2, libcups2 | libcups2t64, libpango-1.0-0, libcairo2, libexpat1, libx11-xcb1
+Recommends: libappindicator3-1 | libayatana-appindicator3-1
+Section: devel
+Priority: optional
+Homepage: https://www.escanor.in
+Filename: pool/desktop-v0.10.47/escanor_0.10.47_amd64.deb
+Size: 187847806
+MD5sum: be706d97807acc30eb5c0dd607ba2b5f
+SHA1: 3776fbd8fbe00353779e1693c83d687dd9b01f61
+SHA256: 10cecde9ebb96595af7d2e5f1aa079c1d614e6c93e96fc3cb2e163ab4734e672
+Description: keeps your apps up, with your computer as the server
+ Escanor tells you what broke in a build or deploy and why. After you
+ approve, it fixes the problem on GitHub, Vercel, Netlify, Render or
+ Google Cloud Run, checks the fix and shows you the proof.
+ .
+ It runs on the AI you already use: your own Claude Code or Codex on
+ this computer, or your own AI key. A code editor and terminal are in
+ the same window, you can speak instead of typing, and your chats
+ follow you between this computer and the Escanor phone app.
