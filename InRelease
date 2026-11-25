@@ -2,40 +2,40 @@
 Hash: SHA512
 
 Architectures: amd64
-Date: Sun, 22 Nov 2026 13:25:52 +0000
+Date: Wed, 25 Nov 2026 06:30:02 +0000
 Acquire-By-Hash: yes
 Description: Escanor Desktop for Debian, Ubuntu and their relatives
 Label: Escanor
 Origin: Escanor
 MD5Sum:
- 79ade489ffa9408ca8b8e30d0f077d49             4019 Packages
- ac60161f0a2d12788f526b31c46abc7b             1074 Packages.gz
- 197179b87ab312d70fa6b43689e15d34             1120 Packages.xz
+ 6af5245b4445d23978a4013e8bd2f7a4             4019 Packages
+ b78ccf02fec95b32e21f91fdc7e8cc74             1073 Packages.gz
+ 27ecc9a01f4b9d3fb45b55e180f8bbf5             1120 Packages.xz
 SHA1:
- 56b3c3e60589e6485e6548b0a516e43866156148             4019 Packages
- 18fdd058b9d3bbcd8ed468d900b69f9afe180cb7             1074 Packages.gz
- b644362ec13fa6d1e58a7ed1f327e8154bf16523             1120 Packages.xz
+ 9dff7b4e291e91a0e82f39e396444ce8d3d1bcd7             4019 Packages
+ 21cf19626e9c74df9d61dab3d052ce48d7dafcb1             1073 Packages.gz
+ a529b33ea488f0aa8c8e8f6a0214cff155e234dd             1120 Packages.xz
 SHA256:
- 665c3ea58608af650f5c126c18dc599a4649c49e8c3f809b17523c5489801980             4019 Packages
- 581bae5974974ba152f3964ff878fbd8fd33b05df09998d036f85effc2489b7b             1074 Packages.gz
- 0119646b189075aede45b82e95e0377e5d9080b9f8d7218e334cf10c475bdc68             1120 Packages.xz
+ d292f27095129488db9492fe6ba55247d85905663c2e42d186e6b41111f8c03a             4019 Packages
+ 82ce4b88317d86365e77fba6dcdbbd4f95f4a382da78712ab013fe03bd6aa68b             1073 Packages.gz
+ 2dff63285fbb5aae10875180ad9f55119ba4261d100ccc95a9b3e50926565a1a             1120 Packages.xz
 SHA512:
- 75afc088be1d25fff004e35d7877af624b72d8aecc4f058dca1f39f801cc392f01bcf43b363672597199a2c1b6aeee85d10382f88af808017f6603644ca4633f             4019 Packages
- 9e9a310fd7ad9ddb15ec784889e51f92d297a4c0db92216eadbbb369c507215474385dca00a6c95c10e7204900d63f9e83d92aaa30610e5a80bcf94555f8f4f7             1074 Packages.gz
- a9c551b220dc7f0d386da3669f8876f2064dfa389944e0fc5b73c3550c3ae947985903695d21a2f38e922732c93fdd6baef92425461303f154dd95b1430b39c8             1120 Packages.xz
+ 9f7897d8c4fb8b06278989b88b015b33e089366e9d7295061845e2b2f0be1b3ad707ed2b03125a1b09bf2d5e247077184bcc1fdfdb953614603d6776d61ceb61             4019 Packages
+ 6590b11e4cb8836d9cfea4d7b2019523983e5c299788fd7d0a8e304560cb869492b6ea2016e17905f156fddbb368dbfda5cdf4f4bb5031c892686089e9b26214             1073 Packages.gz
+ 82fc716dedb0f6bcd467655da3fd555e8f00633d218b58822db82294bb15d952ef7917474e57e0923efb455a6fe2781f1c9acb737cc567fb6cad20dd7a77347c             1120 Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsC7WAACgkQR2R0hi6u
-c8AEpxAAr+q1O4F+sAexP4Q5scxhwxJseQMbF3x4jH+RjGdgPAz1Cjsudp32lGIS
-8FfRQX0f1A6jRLNB8u/gVzNW8cVW7Pg+2kZtnqqYvt4PLab3/VpXYOIECkJTiRT+
-H1aywFwKPyzzaIkvMtmtWS2hXFjUgP8/43/BYLOEbzz4q2bWjsCeCr4/+tkgNNKZ
-t3GMjAJLvYn2xw4KLFBvyra0Hp96k1l5QInc5VeIkbnUroVageP/OHs+P6BUQp3a
-Qcb0ojF5XDhZOD9Ghhe6XDIcwmOxTA0zmru+JFH8kaBzgWqISNKGntJuWWbc0dKm
-RTmp32zWK5vbZ78r3p9+fgZHR2CodWOOzjK3eDJs5jquisI1VNT1U8ZiJZGVNspD
-bI90xD/LZ9FMrcGl1Ok8/uqnBMUStl3YTsgLuRMTr3boeS2QW6iV664Q2bL3Ef4n
-yEMSkkunv2EVUAtji9Mn5dafC0U3CItHXr+Rm+yPgkdrEnyvVBkKi9NFVsUXEcwS
-YWEmnrPnt6mUQNNqndyiNWrhFz10Pv23dWJategxwH+F6BiB7Q9LbESWU++vGxw3
-Q+eC56nfoqIrZPan9r0GYIk2RN06PA4mI/1UJwqaU0gw9/IP4N33eow3orBjH7rN
-Qk2yhEVLHhM1cnKlOgB6xme9DJeOOl/ykrCqw0BBaGL/rhGfi/Q=
-=YVoV
+iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsGgGoACgkQR2R0hi6u
+c8Cpjg//TcMs9N3q+rUvVLdWcSLw3et5aEdmrk/VpUAJVXQ1ryHNX8+A+J40cjjh
+vjfF7gQz0vOcRCnkASaAAWXS/eUWRu7NY79HEnkPjpjpbR1SKASmeBHNyeT9uTmL
+j+DZyG3wn3RmN/Jyh81Wsd673GiJWmdMPCnJMTBLfwILfjKxZn0/wt/rv0aoRFoG
+wg1R1fGYePoZx04MnG0a940EvQowOQQAYUCsB6RuvW3izjIkgDFnHN5l/KmUnRnF
+mtE9CRgkisD9KLJvs4KXqvGOXINqMrNA9W9rQ4s90I58uwyJop/+n+F4S+hSLA8V
+T6PGQPTg5CcCz7qtzUXuwghXp4JhGKEF7xgQ6yPjvIMsrmRTiBWGkdy3wTROWUeg
+KLPDj6WNqplUuYtljSn02Ygl2SegatFtt7Iy9I5GzcIi6mmJG7B/x2tYGP3RGrJD
+8eY/D0oEI28BC/GN4BC1KgTyBzX+0MYq/Mgf/PLtJqLZa/1NzS70WZzZF70Yf5QB
+fmdzZj0rihElrhm6YpNumvraKuReSHPlg29N/z+3sFC3gF/IKfapwW7OJxPGL+bi
+tuj1lQOVwrjUK3GuyByYD/uqdGyoKGZFAr1Fwro0IF234trd2prmKZzwsSjwxPOZ
+xyxULDtA2owsMyScq8KzzAh7Z8i1lKW8y36IDSPLmeaq5TcIk1E=
+=8ZfQ
 -----END PGP SIGNATURE-----
