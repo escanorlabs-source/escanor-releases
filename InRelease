@@ -2,40 +2,40 @@
 Hash: SHA512
 
 Architectures: amd64
-Date: Wed, 25 Nov 2026 06:30:02 +0000
+Date: Wed, 25 Nov 2026 15:07:58 +0000
 Acquire-By-Hash: yes
 Description: Escanor Desktop for Debian, Ubuntu and their relatives
 Label: Escanor
 Origin: Escanor
 MD5Sum:
- 6af5245b4445d23978a4013e8bd2f7a4             4019 Packages
- b78ccf02fec95b32e21f91fdc7e8cc74             1073 Packages.gz
- 27ecc9a01f4b9d3fb45b55e180f8bbf5             1120 Packages.xz
+ 4c35e9a002122a5a6ffc4723ee01d721             4019 Packages
+ a9ed47bb159a13913555d315db27199e             1076 Packages.gz
+ d5cb9457d58de64e8ae97bc75ac27bc5             1120 Packages.xz
 SHA1:
- 9dff7b4e291e91a0e82f39e396444ce8d3d1bcd7             4019 Packages
- 21cf19626e9c74df9d61dab3d052ce48d7dafcb1             1073 Packages.gz
- a529b33ea488f0aa8c8e8f6a0214cff155e234dd             1120 Packages.xz
+ 9f21a62c85f18054f64a9cfe6aaf50cdae961aa8             4019 Packages
+ 0679fa7bf40128015b9cef5860541c3e5f7b9a56             1076 Packages.gz
+ 41d3bc157f44ac7786cabb093db99af54931f71a             1120 Packages.xz
 SHA256:
- d292f27095129488db9492fe6ba55247d85905663c2e42d186e6b41111f8c03a             4019 Packages
- 82ce4b88317d86365e77fba6dcdbbd4f95f4a382da78712ab013fe03bd6aa68b             1073 Packages.gz
- 2dff63285fbb5aae10875180ad9f55119ba4261d100ccc95a9b3e50926565a1a             1120 Packages.xz
+ d18f53e49c3ff6f17f890599086a4bfc6d5cb739fb6db02629865f38fb6e857d             4019 Packages
+ e9d1da7af4061057b7fa4ddb4884d6ceac348bbd885b5c0d0b942c1f64514da2             1076 Packages.gz
+ cb670b6b1a086551b07793974fcb4ac43999d04dd12224dbafc4d06fd64eebda             1120 Packages.xz
 SHA512:
- 9f7897d8c4fb8b06278989b88b015b33e089366e9d7295061845e2b2f0be1b3ad707ed2b03125a1b09bf2d5e247077184bcc1fdfdb953614603d6776d61ceb61             4019 Packages
- 6590b11e4cb8836d9cfea4d7b2019523983e5c299788fd7d0a8e304560cb869492b6ea2016e17905f156fddbb368dbfda5cdf4f4bb5031c892686089e9b26214             1073 Packages.gz
- 82fc716dedb0f6bcd467655da3fd555e8f00633d218b58822db82294bb15d952ef7917474e57e0923efb455a6fe2781f1c9acb737cc567fb6cad20dd7a77347c             1120 Packages.xz
+ d1da1b34b32a25c59c21f6024328fb18944bd8ae3b32efd27f71ac2439e4a2f59b00638476df39e7d70f90a7dae03bc6f3ef0d17809af6f8920d3f8cfc2bdc94             4019 Packages
+ 9fac47e5af832f09cb08d166d5e8f543794f46ec45a69216e90a4a2cdddf4843bea4e765f0c36efe1cc4f0ca967d8aecb95fdbdfb9e2ee1643595be0411d64cd             1076 Packages.gz
+ 90f68e6ea8301403812ffbb301c554a8eee1e201c832cf1f6547418705c1ce4bfdde5016afee1a9e7a4c761903dabe11d423693a10d8ce4c19d34c160a3d2fed             1120 Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsGgGoACgkQR2R0hi6u
-c8Cpjg//TcMs9N3q+rUvVLdWcSLw3et5aEdmrk/VpUAJVXQ1ryHNX8+A+J40cjjh
-vjfF7gQz0vOcRCnkASaAAWXS/eUWRu7NY79HEnkPjpjpbR1SKASmeBHNyeT9uTmL
-j+DZyG3wn3RmN/Jyh81Wsd673GiJWmdMPCnJMTBLfwILfjKxZn0/wt/rv0aoRFoG
-wg1R1fGYePoZx04MnG0a940EvQowOQQAYUCsB6RuvW3izjIkgDFnHN5l/KmUnRnF
-mtE9CRgkisD9KLJvs4KXqvGOXINqMrNA9W9rQ4s90I58uwyJop/+n+F4S+hSLA8V
-T6PGQPTg5CcCz7qtzUXuwghXp4JhGKEF7xgQ6yPjvIMsrmRTiBWGkdy3wTROWUeg
-KLPDj6WNqplUuYtljSn02Ygl2SegatFtt7Iy9I5GzcIi6mmJG7B/x2tYGP3RGrJD
-8eY/D0oEI28BC/GN4BC1KgTyBzX+0MYq/Mgf/PLtJqLZa/1NzS70WZzZF70Yf5QB
-fmdzZj0rihElrhm6YpNumvraKuReSHPlg29N/z+3sFC3gF/IKfapwW7OJxPGL+bi
-tuj1lQOVwrjUK3GuyByYD/uqdGyoKGZFAr1Fwro0IF234trd2prmKZzwsSjwxPOZ
-xyxULDtA2owsMyScq8KzzAh7Z8i1lKW8y36IDSPLmeaq5TcIk1E=
-=8ZfQ
+iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsG+c4ACgkQR2R0hi6u
+c8BbmxAAqQurN1FoMKGdpiTDRZURFcyfToJhYBUsStMydaPEP/YF36NtrGwseCgn
+qrZxEoix3Bp4T3uC1OgYEEYx6L/QpWlTlEhR7j46BMbqWjv89sX2Sh2Fvm35FSfF
+fXoSKQzaIupkqNJnk4FsSDFDNcngKyCLEYw0QFEE6qlE9a13qNeqIjh91qtEttcy
+G95xufxDeqT5uVVCzvwvMipUdKuREeOlFabS7SRJ4AIfZeoirVn+v0nA6d9IodjV
+NGoPWkxgORIiqQOoAy8i8sgj+3VE4JSxkqx1NWrNAg2eNAeGbdJZwIbCFT3NbKwA
+dDYdeOpWqGClxhFl7ioZIChsTLTvF2b4XykgT6rGcZWFJgfXhW2OtBM+m5Rvrck2
+WtMFTlFbvFedalUozaQf2XBwPLjJdxja1BOjOHS4Oliyv+xF1sJJtb0sXyInx1Ko
+8Dbo/pJ2sStptABgTYaSxVi/YEMdc95b/KjNdoyiq5/i4WpfZP44pRmdxOB91oNF
+gXp8ydUw0UMdrUiPkXJdLokqkTFPmHw5oV5jHpNtWziLdErjdU8LKHOWcokMQeix
+nFJoeOWmiRowd9v3huTIIMjk4PcUczXk0bCQUKvRC8Wd0nvXPV7Q+/v1Cu1WyoOu
+WSS9uqhn7jx2DMPH4oqmm5cDEAusQRyXdN1ytTZAHfBxACLx3dg=
+=LyGS
 -----END PGP SIGNATURE-----
