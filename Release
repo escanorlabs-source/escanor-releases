@@ -1,22 +1,22 @@
 Architectures: amd64
-Date: Wed, 25 Nov 2026 21:09:36 +0000
+Date: Thu, 26 Nov 2026 07:57:08 +0000
 Acquire-By-Hash: yes
 Description: Escanor Desktop for Debian, Ubuntu and their relatives
 Label: Escanor
 Origin: Escanor
 MD5Sum:
- 078a23c7c21acf26f7c02d2f6fe29177             4019 Packages
- c624e1a27ef4d5446a7ec8539acc1483             1077 Packages.gz
- b7638635835e8e30ed90ee3f43f61126             1120 Packages.xz
+ 4d1b3df4202681cb74f6afc36f0be792             4019 Packages
+ 1174213324685904cde109d051e09843             1083 Packages.gz
+ 6093ef97bd430c30a25cd4d97c68b3ae             1128 Packages.xz
 SHA1:
- 6af8acdbc210af4586cb93c7cd9dc25416227858             4019 Packages
- 685ef002a57885a02a8c28ecfc292b18ee9ca2d2             1077 Packages.gz
- a8a8d7e5d1ffa95d610f4ade0add07cf54b86709             1120 Packages.xz
+ a62c7a0677353478f94722da70f6a0ecd64ca6be             4019 Packages
+ 41e81e89a26888b59642da95b61e13ce4ca42ae8             1083 Packages.gz
+ 3c4459bf63d171e4a476c75768ae73ee2db1215b             1128 Packages.xz
 SHA256:
- bfbe256ddf69b389e00c9cbab5e00188b1f5d88373975fdeb28137050298fbb9             4019 Packages
- 20e02c9af9e4eca60b74cfd46d54943eaa0a56356ef03c50999aaa430a3cc1b8             1077 Packages.gz
- d81343398a257709f5fc25ef6667fb6426760f469109b45ca662c8a8075bc334             1120 Packages.xz
+ 99ddec6b724d74662bf95843d10acbd46e8bc2e320e1b01842d2624c0c72d4df             4019 Packages
+ b1a86399b6d5a2a47dd6490a20002bb5e57a7f621d3934919e1f3d3ae3100b94             1083 Packages.gz
+ 39c95c89043b905e230ac5509adf76169461c04849e0c496fa62fd7004f2bc11             1128 Packages.xz
 SHA512:
- 527cadefeb33b4167d444b419e5dff2aeb368178b066fb9fd1d17507e7fa9405c7849d5a16ea63e0e328291671759d49e4673b04f50ab6b942b0e39b18c50c6b             4019 Packages
- 8d5a2d360f7d55b869d26032c28fd93d3105235593c89f79e6d66ce5a7013d1afbaf24c23cd4ba2b429af8effb62038338ec3d418427cd19dbcb9246291127b6             1077 Packages.gz
- 24f889f133074c1b59da928650d3f7ee13a27b0c285cf406558ec23ba5401b71e4abefc3eb014ccb3719cdebf3163357fd16670a5cbb449135af79b8bb024fdf             1120 Packages.xz
+ 513fc59ce0a4f26680396fa60ea50586231b685c354d0ab4fbf0300678d83d2dd47a91be090154a2a93f3314c924064e8caa30439239614e4254d8f272e17eb5             4019 Packages
+ 7665a05549f638df160e0a44ef5e9acfaa64420148019b42b38abbc485f37f8e22e77a6d4dfd4c2884249b43dadc8f1363658aeea5653372716392889c622fe5             1083 Packages.gz
+ b0a5d5ec28606322c8864a9a87c537a8e0c62e9e30827b9f6b06c88e78b49c731129e461df2b7531e3fedae64d1a9ca6ba4ba24669f1a7ff18f09fb1ff2c912a             1128 Packages.xz
