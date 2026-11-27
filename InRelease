@@ -2,40 +2,40 @@
 Hash: SHA512
 
 Architectures: amd64
-Date: Thu, 26 Nov 2026 18:18:29 +0000
+Date: Fri, 27 Nov 2026 06:25:31 +0000
 Acquire-By-Hash: yes
 Description: Escanor Desktop for Debian, Ubuntu and their relatives
 Label: Escanor
 Origin: Escanor
 MD5Sum:
- afa9838f99427a836ea61c1717fe3530             4019 Packages
- 23cd0a140cf738dd2bc384c48cd67742             1078 Packages.gz
- 39d6b9ffa395c1385cc9d7f1bab5add9             1124 Packages.xz
+ 726d2a8bf950ef466534d22267cddc43             4019 Packages
+ c7eb4ac9696858e2de0047c7d0505442             1071 Packages.gz
+ 16503d6384640c057f6191f3858f4d7b             1120 Packages.xz
 SHA1:
- 6f712e82e726a2b28e586364dcbd1734db7b8578             4019 Packages
- e13ff83b682a4defe28ba1ae3bb5ac2ac348eea9             1078 Packages.gz
- af2b1b2a7864a446ec0b36143e43dd064f5dfbff             1124 Packages.xz
+ bec67b596509d04744c6861433401b59773345bb             4019 Packages
+ 66d7628dd01401be9bcd1c3d384202d8a535acdb             1071 Packages.gz
+ d8b0a456d088dd21eb139c3634a3c0db7087feff             1120 Packages.xz
 SHA256:
- 42f6f1b0bb127731592a6b1136b43142cd0241bdead9d95396de082980c703a8             4019 Packages
- 669f979199c44d3ccdf4adf58e5a5b3d66765384765b53ba902f78c9765da100             1078 Packages.gz
- ed8ce297edc598596037c93bb8c706019be6533ed5d76f34052929725d16bc61             1124 Packages.xz
+ 8a6840c36e8cceb6774ff701cf2eb7409c22e1cc2b7e88a893a630ead6308207             4019 Packages
+ 09cdcbdb2a4c74aec0e9e13610d871f880dc1098aea8524c66d3d430fd020b30             1071 Packages.gz
+ 2aafc677fc3bc250d3ffee395de9a81bb1137ef6aae7957fa6eed56f2b795b5c             1120 Packages.xz
 SHA512:
- 5abdd8f0c371673346ac5e8cc3e9f41d7bf49df253362d8ec7fedd737af9a9632ac9504c2dc4ad3e70c1fd0a4759d542d71e43e964b80dc9adf65f937ae89885             4019 Packages
- 97cc0c02bab9c16e60da38d80cae4d0769ee4748252a11a0deb12649b879bf0820de6e011edbdc0541ba730eb624051adc630ebb81e8add01fc06d14a36690c3             1078 Packages.gz
- 567fc99efe131ed1bfd28bcdcda562bc0b69e497c4d86a50c8e262bde2f6e61ba16d4c199911e8f9d4b83d50347d1761d2b69b6956d1d753675910d3c5e3507a             1124 Packages.xz
+ 36a957d36ceb8b16e71a627d9223362c9a1f7487b8cd58634a98efe79b0df5925cf85b17c9346a4bf70c119fc27878eea4fdbcfaa600fa9724136fd78801f1f4             4019 Packages
+ 954b91cca84e52a1dd38f9cb064bbbd2df23ced90e501883816a06604339d4947070d2a8dfc27c23f39b6e5726ad960272abaf3ef2e372e543118dfde9685012             1071 Packages.gz
+ bfb1707ab9f7f8bde39a6e73acdf9722399acd5905e590071376bc8628ddf3df8f891482df5d4ee328dd4c346b9dae480f375907396cf03c0df7c3c6cd972fd6             1120 Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsId/UACgkQR2R0hi6u
-c8CT0RAApFxf+810Zinmy+iwCxqCdSfTXhoTDeCE2yTarhtckxa0IHQraQ0xri5q
-SxlqAqvH9Y8YL1Uf0cH7FDqeNW/JyRxCbp6jrHV3gBfsfBOQWIqaKoHfucx+bnL+
-eTBaQVTLQkBVZbYxlqeMKimZszrZetQOYOqAfONgy235yBi3chQ2R5F6/zhcsJqw
-aSOSU2zTj+VIGHtMCDt2qQFwhgj+G0noKE7yKP5DKD6/Ec7nF/Lf18US5BSIrWZQ
-VZb/WivWa+h2U9zfsxD6qCyDRwQ0omfSqicdDm8Ifvdwe8m2fLzbCNCfBKzKupEO
-2dsj0XemByKgztGdDbMPQulknb7Dnfr/uZ2Kl3iz2huOVtUiBzh+AVYAxxojuV/k
-MQryANeZfDcPouURTv14ydP0yHJWXgxXs8neg6HS5pOw/2FtSHe3aQTWwh5EYtQ1
-BCO5POIulNTx6owWShlMxshqIX4XJypZxa8u7wsKxlXaY3CMmqf0Yrp4l1CxS7qg
-lD0V7d6b58QmwtFmEeop397X7hjFqt19QqnoBIhOWQOWJvOjzi61XquMn5OgZs6R
-fQXGqGuqBvlMtBt838VQdhM3B6BsXSZsfiYM1E7cNxOUsNDnIY7Snzuybfm8fC/U
-tqKs/1TY7uCYkjGhTfqSsJ34pCeu9dbEPZZcnURQRhfepRJ78/A=
-=CTfp
+iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsJIlsACgkQR2R0hi6u
+c8DRuA/9EXRKFCjhaO5T2BXd+wVY7XvmfLQcdU7GCmrH7E/Ai2t9JfhJYNOVTvqN
+Rb78rLP9vu54n9IsqdfNqvRFcw8ZLmbx3c1mJDFr8S0faL8PhsDzneIJ6e/ENYcQ
+cYHpFG1NVYDVRi3tztNetB6uJaadJLaqRDGwfAnOIhcmrToSy3w3SE2IBW1k+xT6
+UF20LtsZwsp2jCSzcgw6Pjk6L91mz1I5bDlQYxEE6ak6/vWxWGyq5tIIIbM/soxh
+pm0o/MLTvV6qhjjfFa2cAhnZoL7Qiw2z8cV+UloBC9Qk3c8RU+2SLe7afw7nLwYJ
+2QNt2PTvIY12FFCMkjYNWAAVBrAXcC9Gj4aiEbpaFcp1NjQ1XXZsgFYPeH214K57
+rfr8zncD2ytCNUh/NgNy7C1eZT7VGiULakCOqoTQ8BQB9WEl0qb0VkuIDNxOC8Gf
+jgAnkl+1nlg7P3BUYcBQVN6eWRqh99SIuhjYbABQ7XNJenJNTQIVKnhqrwrh+b7s
+5UrGnnann13RxLShhuikdTb1pFjg7qdkMcnUYkXEuFA8C/wAnCbuyXdpqOtYF/o7
+pt/dpzPp4haEqaXcwWEyYOp/e19+biD4D1KeXQSUWRfTBdj/eCgPVspsJ4giLrN3
+atfAcUyvDg4NfkwjCnkqh8SYqF00ryFrphrMjFw+l/++gacgFNI=
+=djau
 -----END PGP SIGNATURE-----
