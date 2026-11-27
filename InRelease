@@ -2,40 +2,40 @@
 Hash: SHA512
 
 Architectures: amd64
-Date: Fri, 27 Nov 2026 06:25:31 +0000
+Date: Fri, 27 Nov 2026 10:01:27 +0000
 Acquire-By-Hash: yes
 Description: Escanor Desktop for Debian, Ubuntu and their relatives
 Label: Escanor
 Origin: Escanor
 MD5Sum:
- 726d2a8bf950ef466534d22267cddc43             4019 Packages
- c7eb4ac9696858e2de0047c7d0505442             1071 Packages.gz
- 16503d6384640c057f6191f3858f4d7b             1120 Packages.xz
+ 70a8524098cb8b44853601111ea420b7             4019 Packages
+ 3883a101baa6aff75b816bc73b6d2299             1075 Packages.gz
+ 4bf8753728d68a07eedeae12f48ec5f0             1124 Packages.xz
 SHA1:
- bec67b596509d04744c6861433401b59773345bb             4019 Packages
- 66d7628dd01401be9bcd1c3d384202d8a535acdb             1071 Packages.gz
- d8b0a456d088dd21eb139c3634a3c0db7087feff             1120 Packages.xz
+ e7002bf47130dbb4a7d3c838064e0d297d8a5b78             4019 Packages
+ d0d8c606f3ddbbd36769ccf9382b2c30d6672721             1075 Packages.gz
+ cda16a97743d133c23e40126adc07e84789d2f16             1124 Packages.xz
 SHA256:
- 8a6840c36e8cceb6774ff701cf2eb7409c22e1cc2b7e88a893a630ead6308207             4019 Packages
- 09cdcbdb2a4c74aec0e9e13610d871f880dc1098aea8524c66d3d430fd020b30             1071 Packages.gz
- 2aafc677fc3bc250d3ffee395de9a81bb1137ef6aae7957fa6eed56f2b795b5c             1120 Packages.xz
+ 5d85ec164c6db72b64c6f42c605e50a3cdd81a90b74052865abd1f833dce2b6a             4019 Packages
+ b0fe758476a60e737a9184dc15fb56592766203416be7aa067315349043f1ed8             1075 Packages.gz
+ 4848739cce534a3627da260ef0980ca6a59d5f0e989f14c371a6a3400727791b             1124 Packages.xz
 SHA512:
- 36a957d36ceb8b16e71a627d9223362c9a1f7487b8cd58634a98efe79b0df5925cf85b17c9346a4bf70c119fc27878eea4fdbcfaa600fa9724136fd78801f1f4             4019 Packages
- 954b91cca84e52a1dd38f9cb064bbbd2df23ced90e501883816a06604339d4947070d2a8dfc27c23f39b6e5726ad960272abaf3ef2e372e543118dfde9685012             1071 Packages.gz
- bfb1707ab9f7f8bde39a6e73acdf9722399acd5905e590071376bc8628ddf3df8f891482df5d4ee328dd4c346b9dae480f375907396cf03c0df7c3c6cd972fd6             1120 Packages.xz
+ 37cc652dace86c0083fe99a5ec5fe7b5183297b12332f805fc393a7c4e1d73a5a6f45b9cffd046f1c65990fdfad04f33f19b17ac0f66983371fb8f352c11b9d6             4019 Packages
+ 617f905d6939d7f1201981d125894f107420e860e3835d0c3e795c5014a29f04421f0becf4846a06ec40d258ad7c56f26f9dcd0fbdc699b8379a7047e782edce             1075 Packages.gz
+ 474a0856233b4855c0a4798e06afc3aa5d8840794ab3e30fad4e12f7efe73b0681bf4133dea913b4479b076422ae691a7cee306e0dcdaa607d9f9799548c0b2a             1124 Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsJIlsACgkQR2R0hi6u
-c8DRuA/9EXRKFCjhaO5T2BXd+wVY7XvmfLQcdU7GCmrH7E/Ai2t9JfhJYNOVTvqN
-Rb78rLP9vu54n9IsqdfNqvRFcw8ZLmbx3c1mJDFr8S0faL8PhsDzneIJ6e/ENYcQ
-cYHpFG1NVYDVRi3tztNetB6uJaadJLaqRDGwfAnOIhcmrToSy3w3SE2IBW1k+xT6
-UF20LtsZwsp2jCSzcgw6Pjk6L91mz1I5bDlQYxEE6ak6/vWxWGyq5tIIIbM/soxh
-pm0o/MLTvV6qhjjfFa2cAhnZoL7Qiw2z8cV+UloBC9Qk3c8RU+2SLe7afw7nLwYJ
-2QNt2PTvIY12FFCMkjYNWAAVBrAXcC9Gj4aiEbpaFcp1NjQ1XXZsgFYPeH214K57
-rfr8zncD2ytCNUh/NgNy7C1eZT7VGiULakCOqoTQ8BQB9WEl0qb0VkuIDNxOC8Gf
-jgAnkl+1nlg7P3BUYcBQVN6eWRqh99SIuhjYbABQ7XNJenJNTQIVKnhqrwrh+b7s
-5UrGnnann13RxLShhuikdTb1pFjg7qdkMcnUYkXEuFA8C/wAnCbuyXdpqOtYF/o7
-pt/dpzPp4haEqaXcwWEyYOp/e19+biD4D1KeXQSUWRfTBdj/eCgPVspsJ4giLrN3
-atfAcUyvDg4NfkwjCnkqh8SYqF00ryFrphrMjFw+l/++gacgFNI=
-=djau
+iQIzBAEBCgAdFiEEINEI/dmD+aRsoOVwR2R0hi6uc8AFAmsJVPcACgkQR2R0hi6u
+c8A7VxAAtALs47Wl/YSZjR+B5qPIYvHvU512Wm7i5xFFODnuzD9SR/jNMQm0UlTi
+rhXLTewWe2ODbh2OCiqe6CN86UgppfF1r36BSDNGp3j6IwDZWFAAW8vjDxEe8QQv
+s6Pf47C09o1WdmeopYASLIiRWrw/THDQpKKpEIKDQ17tD/HsN+H00RmywfScI5F0
+Pj/Q3k3UhHrCl0912266bmGZSqjYkRfLz5JLCOwptJ871Z+58DHmG8+KV9Ap14jJ
+lmlujBYEtwQOFvwDn2bgKVGk897PZlfl8HVEV8+3nN8144SD61NZKuMfN7BMDjOo
+tYf6ai+nurELxtz1MRwDgsRpdeEIPVHQ1nEX2quWJETYiYXwS+KUjs2Cq0hfIzVa
+N/9np+N2KR5CofgOfV6gGAYVxkX4c9wYTl45clTyIQqtDUub6MyXMJxah7mZl1jv
+mU504amu2jmvZ3QKY2kX/hRp8RoZbmo6H+0x0E8k5asW4YTqlfY1wLLJXVtqqSN/
+Y5lvmajNYRozq/TNOpFHutYDG+lPm46iifF+wpBdsWQG1fSewTMgqYar6VDoXBgC
+CeFa+O3Jyq4Np/04BHwfQ1V3yOc3Pqw1Nufufb6e9DPZohYLCiNzmiZZomYfP7pZ
+Gdv/M66bUn4MGWZ6Ui1Ti253i3ASCYswv0MURfx7T5NNQMNv/MM=
+=yC+3
 -----END PGP SIGNATURE-----
